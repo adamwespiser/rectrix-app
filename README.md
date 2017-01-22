@@ -1,12 +1,11 @@
 # rectrix-app
-Rectrix App
 
-WHEN CONTRIBUTING TO THIS REPO:
+### HOW TO CONTRIBUTE
 
-1. PULL THE CURRENT STATE OF REPO (git pull ..., or "sync" in top right of GUI)
-2. EDIT THE FILES YOU WANT TO WORK ON
-3. MAKE SURE THE PROJECT STILL COMPILES AND RUNS WITH THOSE CHANGES.
-4. COMMIT TO MASTER (git commit "description", or "commit to master" at bottom-right of GUI)
-5. PUSH THE REPO (git push ..., or "sync" in top right of GUI)
+1. **PULL** the current repo from github (`git pull origin master` , or "sync" in top right of GUI)
+2. **EDIT** the files you want to make changes to
+3. **COMPILE** Make sure the project compiles, runs, and your changes are bug free!
+4. **COMMIT** to master (`git commit -m "description"`, or "commit to master" at bottom-right of GUI)
+5. **PUSH** the repo (`git push origin master`, or "sync" in top right of GUI)
 
 thanks!
